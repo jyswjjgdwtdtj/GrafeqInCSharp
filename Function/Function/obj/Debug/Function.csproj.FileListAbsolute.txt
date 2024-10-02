@@ -1,0 +1,10 @@
+C:\Users\liboyuan\source\repos\Function\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+C:\Users\liboyuan\source\repos\Function\Function\obj\Debug\Function.Form1.resources
+C:\Users\liboyuan\source\repos\Function\Function\obj\Debug\Function.Properties.Resources.resources
+C:\Users\liboyuan\source\repos\Function\Function\obj\Debug\Function.csproj.GenerateResource.cache
+C:\Users\liboyuan\source\repos\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\liboyuan\source\repos\Function\Function\bin\Debug\Function.exe.config
+C:\Users\liboyuan\source\repos\Function\Function\bin\Debug\Function.exe
+C:\Users\liboyuan\source\repos\Function\Function\bin\Debug\Function.pdb
+C:\Users\liboyuan\source\repos\Function\Function\obj\Debug\Function.exe
+C:\Users\liboyuan\source\repos\Function\Function\obj\Debug\Function.pdb
